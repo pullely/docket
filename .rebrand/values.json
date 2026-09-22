@@ -1,0 +1,11 @@
+{
+  "reponame": "docket",
+  "productname": "docket",
+  "productdomain": "docket.dev",
+  "apibaseurl": "https://api.docket.dev",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_844846099689420b983691f6f7adc3d3",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
